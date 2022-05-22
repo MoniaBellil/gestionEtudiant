@@ -1,0 +1,92 @@
+body{ color:black; font-size:20px;}
+
+html { 
+  background: url("form1.jpg") no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+	}
+
+
+	
+	.txt{
+		width: 15%;
+		padding: 12px 20px;
+		margin: 2px 0;
+		display: inline-block;
+		border: 1px solid ;
+		border-color:#ccc;
+		border-radius: 15px;
+		box-sizing: border-box;
+	}
+	
+	}
+	input[type=password]{
+		width: 15%;
+		padding: 12px 20px;
+		margin: 2px 0;
+		display: inline-block;
+		border: 1px solid #ccc;
+		border-radius: 15px;
+		box-sizing: border-box;
+	}
+	input[type=submit]{
+		width: 100px;
+		height:40px;
+		background-color:cornflowerblue;
+		color: white;
+		margin: 8px 0;
+		border: none;
+		border-radius: 15px;
+		cursor: pointer;
+	}
+	
+	input[type=submit]:hover {
+		background-color:dodgerblue ;
+	}
+	input[type=submit]{
+		width: 100px;
+		height:40px;
+		background-color:cornflowerblue;
+		color: white;
+		margin: 8px 0;
+		border: none;
+		border-radius: 15px;
+		cursor: pointer;
+	}
+	
+	input[type=submit]:hover {
+		background-color:dodgerblue ;
+	}
+	
+	input[type=reset]{
+		width: 100px;
+		height:40px;
+		background-color:red;
+		color: white;
+		margin: 8px 0;
+		border: none;
+		border-radius: 15px;
+		cursor: pointer;
+	}
+	
+	input[type=reset]:hover {
+		background-color:grey ;
+	}
+	
+	.copy{text-align:center ;
+		color:white;
+		font-size:20px
+	}
+	
+	
+	.d1 {
+	background-color:Black;
+	opacity: 0.77;
+		border-radius: 5px;
+		padding: 50px;
+		
+		font-weight: bold;
+		color: White;
+		}
